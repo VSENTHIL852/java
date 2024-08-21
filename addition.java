@@ -12,5 +12,6 @@ public class function
 	  Methods o=new Methods();
 	  o.addition();
 	}
+	
 }
 
