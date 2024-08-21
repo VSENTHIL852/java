@@ -5,17 +5,12 @@ public void addition()
 	System.out.print(a+b);
 }
 
-
-
 public class function
 {
 	public static void main(String[] args)
 	{
 	  Methods o=new Methods();
 	  o.addition();
-
-
-
 	}
 }
 
